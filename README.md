@@ -2,6 +2,13 @@
 
 <h1 align="center"> Leitor biometrico de acesso ao DC TVPOA </h1>
 
+> Status do projeto: Em desenvolvimento.
+
+> Para rodar o projeto na sua máquina, por favor digite:
+
+'''
+npm install react
+'''
 <h1 align="center"> Como instalar o git hub localmente (computador):</h1>
 
  https://cursos.alura.com.br/course/git-github-controle-de-versao/task/57007
