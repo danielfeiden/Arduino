@@ -2,6 +2,10 @@
 
 <h1 align="center"> Leitor biometrico de acesso ao DC TVPOA </h1>
 
+<h1 align="center"> Como instalar o git hub localmente (computador):</h1>
+
+ https://cursos.alura.com.br/course/git-github-controle-de-versao/task/57007
+
 //Programa: Modulo Leitor de impressao digital - Registro
 //Alteracoes: Arduino e Cia
 //Baseado no exemplo original da biblioteca Adafruit Fingerprint
